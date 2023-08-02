@@ -1,0 +1,3 @@
+# qrcode-generator
+
+IT IS A SIMPLE QR-CODE GENERATOR FOR TEXT AND LINKS
